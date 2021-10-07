@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning bits of HTML, CSS and Javascript to use this better.
 - 🌍 Learning languages: Irish and French, Mando'a and Lang Belta for conlangs. 
 - 📚 At university I studied English Literature - BA & MA and going to be pursuing a PhD 
-- 📫 How to reach me: Twitter @AgogAndAghast
-- 🎒 Freelancing Twitter is @THLiterary
+- 🎒 Twitter is @THLiterary
 - 💻 I run https://th-literary.com focused on tutoring and share a blog post every Tuesday about studying, organisation, app reviews and more. 
 
 <!---
